@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-FaveMovies-FaveMoviesUITests/Pods-FaveMovies-FaveMoviesUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AMRefresher/AMRefresher.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Moya/Moya.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SkeletonView/SkeletonView.framework
+${BUILT_PRODUCTS_DIR}/UIScrollView-InfiniteScroll/UIScrollView_InfiniteScroll.framework

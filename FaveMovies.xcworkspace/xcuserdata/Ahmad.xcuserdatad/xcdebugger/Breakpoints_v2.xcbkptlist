@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B6E981D5-FD23-4E72-9BCA-B505AC90526C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EAEFA49-8E19-42A1-A697-9D411FD0636D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaveMovies/Scenes/MoviesList/MoviesSceneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchMoviesList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D736B8F-E34E-4457-801C-6C416BB9E248"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaveMovies/Scenes/MoviesList/MoviesSceneWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchMoviesList(pageNo:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8D0FA2D-CE1D-4E23-9C50-9A1135520E7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaveMovies/Scenes/MoviesList/MoviesSceneInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetchMoviesList(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7567ABA-8707-4CA7-8712-A9524E451632"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaveMovies/Scenes/MoviesList/MoviesSceneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "moviesTableView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "787EC529-A631-4524-911C-F36364D77AA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaveMovies/Scenes/MoviesList/MoviesSceneWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(moviesAPIStore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDB8279F-4300-4029-B9C6-09E0C5FC0878"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaveMovies/Scenes/MoviesList/MoviesSceneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A913802-45EB-4760-9C08-1A5A4743CD69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaveMovies/Scenes/MoviesList/MoviesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "addLoadMore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DC652C7-791A-4A87-8378-60B91360B252"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaveMovies/Stories/MoviesList/MoviesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "addPullToRefresh()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB1321E7-0E93-4518-8320-A5A73D643635"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaveMovies/Stories/MoviesList/MoviesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "fetchMoviesList(withPageNo:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB1321E7-0E93-4518-8320-A5A73D643635 - 8b9d6d23857e31b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaveMovies.MoviesListViewController.(fetchMoviesList in _5510C111361360CE7374408A92606A42)(withPageNo: Swift.Int) -&gt; ()"
+                  moduleName = "FaveMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ahmad/Documents/fave/FaveMovies/FaveMovies/Stories/MoviesList/MoviesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "154">
+               </Location>
+               <Location
+                  uuid = "EB1321E7-0E93-4518-8320-A5A73D643635 - c867092f19652af4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;FaveMovies.MoviesListModel&gt;, Swift.Int) -&gt; () in FaveMovies.MoviesListViewController.(fetchMoviesList in _5510C111361360CE7374408A92606A42)(withPageNo: Swift.Int) -&gt; ()"
+                  moduleName = "FaveMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ahmad/Documents/fave/FaveMovies/FaveMovies/Stories/MoviesList/MoviesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "243">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C76CC3EA-2CDF-4234-8802-1BF3F64B6960"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaveMovies/Network/MovieAPI/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchMoviesList(pageNo:success:failure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C76CC3EA-2CDF-4234-8802-1BF3F64B6960 - 7d87fbd3e6deec81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in FaveMovies.APIManager.fetchMoviesList(pageNo: Swift.Int, success: (Swift.Array&lt;FaveMovies.MoviesListModel&gt;, Swift.Int) -&gt; (), failure: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "FaveMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ahmad/Documents/fave/FaveMovies/FaveMovies/Network/MovieAPI/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "C76CC3EA-2CDF-4234-8802-1BF3F64B6960 - 7d87fbd3e6deec81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Moya.Response, Moya.MoyaError&gt;) -&gt; () in FaveMovies.APIManager.fetchMoviesList(pageNo: Swift.Int, success: (Swift.Array&lt;FaveMovies.MoviesListModel&gt;, Swift.Int) -&gt; (), failure: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "FaveMovies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ahmad/Documents/fave/FaveMovies/FaveMovies/Network/MovieAPI/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "350">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
